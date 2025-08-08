@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-![Tech](https://img.shields.io/badge/Stack-Flutter%20%7C%20Golang%20%7C%20PostgreSQL-green)
+![Tech](https://img.shields.io/badge/Stack-Flutter%20%7C%20Golang%20%7C%20PostgreSQL-purple)
 
 A **web-based platform** to streamline hotel operations — manage bookings, guests, rooms, payments, and staff from a single dashboard.  
 Built with **Next.js**, **Express.js**, **PostgreSQL**, and deployed as a **PWA** for cross-platform accessibility.
